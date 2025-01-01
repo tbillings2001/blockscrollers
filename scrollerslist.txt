@@ -1,0 +1,4 @@
+#list of scroller urls to try and mitigate scroller useage
+
+0.0.0.0 https://www.youtube.com/shorts/
+0.0.0.0 https://www.instagram.com/reels/
